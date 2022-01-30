@@ -54,12 +54,10 @@ const About = ({ clientHeight }) => {
           className="font-medium text-3xl sm:text-4xl md:text-6xl"
         >
           <span className="about-1 leading-tight">
-            I am a passionate UI Engineer who bridges the gap between
-            development and design.{" "}
+            I love thinking in scale solving problems in a distributed environment.{" "}
           </span>
           <span className="about-2 leading-tight">
-            I take responsibility to craft a good user experience using modern
-            frontend architecture.{" "}
+            I am a simple Software Engineer who just loves to code.{" "}
           </span>
         </h1>
       </div>

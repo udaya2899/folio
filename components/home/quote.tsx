@@ -35,8 +35,8 @@ const Quote = ({ clientHeight }) => {
           ref={quoteRef}
           className="font-medium text-4xl md:text-5xl text-center"
         >
-          I have a <span className="text-strong font-bold">strong</span>{" "}
-          obsession for attention to detail.
+          I try to write <span className="text-strong font-bold">better code.</span>{" "}
+          One statement at a time.
         </h1>
       </div>
       <style jsx global>{`

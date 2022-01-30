@@ -1,8 +1,8 @@
 export const METADATA = {
-  title: "Portfolio | Ayush Singh",
+  title: "Portfolio | Udaya Prakash N",
   description:
-    "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ayushsingh.net/",
+    "I love thinking in scale solving problems in a distributed environment. I am a simple Software Engineer who just loves to code.",
+  siteUrl: "https://udaya.dev",
 };
 
 export const MENULINKS = [
@@ -29,23 +29,17 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "I design and develop things",
-  "I develop modern frontend apps",
-  "I design dynamic user experience",
-  "I design and develop motion",
+  "I design scalable systems.",
+  "I write clean, maintainable code.",
+  "I love solving problems."
 ];
 
-export const EMAIL = "ayush.singh.xda@gmail.com";
+export const EMAIL = "udayaprakash2899@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
-  facebook: "https://www.facebook.com/ayush013",
-  twitter: "https://twitter.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
+  linkedin: "https://www.linkedin.com/in/udaya2899/",
+  github: "https://github.com/udaya2899",
+  twitter: "https://twitter.com/udaya2899",
 };
 
 export const PROJECTS = [
